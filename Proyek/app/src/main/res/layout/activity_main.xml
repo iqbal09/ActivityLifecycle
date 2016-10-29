@@ -16,6 +16,29 @@
         android:layout_height="wrap_content"
         android:text="Show Custom Dialog" />
 
+    <Button
+        android:text="Call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="42dp"
+        android:id="@+id/buttonCall"
+        android:layout_below="@+id/buttonShowCustomDialog"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonShowCustomDialog"
+        android:layout_alignEnd="@+id/buttonShowCustomDialog" />
+
+    <Button
+        android:text="Intent Implisit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonCall"
+        android:layout_marginTop="44dp"
+        android:id="@+id/buttonImplisit"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonCall"
+        android:layout_alignEnd="@+id/buttonCall" />
 
 
 </RelativeLayout>

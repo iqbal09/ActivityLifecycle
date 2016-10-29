@@ -1,6 +1,8 @@
 package com.activity.lifecycle;
 
 import android.app.Dialog;
+import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -11,7 +13,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button button;
+    private Button button, buttonCall, buttonImplisit;
 
 
     @Override
@@ -19,6 +21,28 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("Actictivity", " Metode Create Dijalankan ");
+
+        buttonCall = (Button)findViewById(R.id.buttonCall);
+        buttonImplisit = (Button)findViewById(R.id.buttonImplisit);
+
+        buttonCall.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View arg0) {
+//                Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "081265558638"));
+//                startActivity(intent);
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW,
+                                        Uri.parse("http://www.kapanlagi.com"));
+                startActivity(browserIntent);
+            }
+        });
+
+        buttonImplisit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View arg0) {
+               Intent xyz = new Intent(MainActivity.this, ActivityKedua.class);
+               startActivity(xyz);
+            }
+        });
 
 
         button = (Button)findViewById(R.id.buttonShowCustomDialog);
@@ -57,6 +81,9 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
 
 
 
