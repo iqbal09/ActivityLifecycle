@@ -1,0 +1,2 @@
+Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "Your Phone_number"));
+startActivity(intent);
