@@ -1,2 +1,13 @@
 Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "Your Phone_number"));
 startActivity(intent);
+
+ buttonCall.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+
+						 Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "081265558638"));
+						 startActivity(intent);
+
+            }
+        });
