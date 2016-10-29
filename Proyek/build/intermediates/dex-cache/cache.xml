@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0c63d158b62018612a161ef317f4ad4422a4965c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b8d327d982e666546482e49bd8f474d25eaaaf23">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f3dc563531cd78812210d082f76f0f7502e8dc4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9ba39d52bf8c4a6a9519417d535910d960660a6f">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/instant-run_fa18da10d505c4d4545bad1986dee7eaf53cc720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_22e0ce9a46836e169a9f215434b08e0df2990484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f97fec831d73ab8d27bf561f1935b88509fd4e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_7d3153ad48b2688aa20ba8fac6d7ff4ea9d0cd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_941cf5f6df0857a56442c8a3a43c6959641143e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_36e9f6ce6e5c96dd97ba67149cb4ffbab0ba25d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_06b4179bb9194e9efbd0c60c96bf129999373bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_331c7e6031ff682471e7aba3ef6c5be9270806bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b715b9b63bcb3a71be171cdd5260a9e7f95b99b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3210f3ae53e7d852f785604caf7199907ca0f15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_76076fd96f920efc046eaa396a96d4d7d00a8792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a164180405d2a5efe7cbbdbcff900608958f92ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d4199c39b8691923dac854d654dd868991f2dbd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_43e8d75ca6972d1d9fb52143f7c9fca1948f4480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/iqbalhood/Documents/ActivityLifecycleBekup/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ee0dc767b6e9c7070fcda58e7d78ac28c5169181.jar" />
+    </item>
+
+</items>
