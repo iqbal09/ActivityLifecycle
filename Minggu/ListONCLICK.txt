@@ -1,0 +1,10 @@
+ listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView<?> arg0, View arg1, int position,
+                                    long id) {
+                // TODO Auto-generated method stub
+                String kodeslug =  String.valueOf(phoneList.get(position).getSlug());
+                Log.d("KODENYA" , kodeslug);
+            }
+        });
